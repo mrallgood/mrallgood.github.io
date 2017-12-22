@@ -1,1 +1,33 @@
 theme: jekyll-theme-minimal
+# Site Settings
+title: Anthony L. Fox
+twitter_username: pmp_in_757
+name: Anthony L. Fox
+
+#User specific content
+#Links that will appear in the navbar
+title: LinkedIn
+url: https://www.linkedin.com/in/anthonylfox/
+title: github
+url: https://www.github.com/mrallgood
+title: odumobile
+url: https://www.odu.edu/ts/software-services/odumobile
+
+#Education
+education:
+ - level: Bachelor of Science (B.S.)
+   date: 1993
+   subject: Management Science (Decision Support Systems)
+   school: Virginia Tech
+ - level: Master of Business Administration (MBA)
+   date: 1995
+   subject: Management Science (Decision Support Systems)
+   school: Virginia Tech
+   
+   #Work experience
+roles:
+ - title: Public Safety Portfolio Project Manager
+   start: Oct 2015
+   end: Ongoing
+   employer: City of Virginia Beach
+   description: 
