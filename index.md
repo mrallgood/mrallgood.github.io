@@ -22,8 +22,8 @@
 		</div><!-- /.container -->
 		<footer>
     		<ul>
-        		<li><a href="mailto:hankquinlanhub@gmail.com">email</a></li>
-        		<li><a href="https://github.com/hankquinlan">github.com/hankquinlan</a></li>
+        		<li><a href="mailto:anthony.fox.mba@gmail.com">email</a></li>
+        		<li><a href="https://github.com/mrallgood">github.com/mrallgood</a></li>
 			</ul>
 		</footer>
 	</body>
